@@ -8,3 +8,6 @@ async function fetchData<T>(url: string) {
     throw new Error(`Error fetching from ${url}: ${error}`);
   }
 }
+
+// tslint:disable-next-line:no-unused-expression
+fetchData("some-url");

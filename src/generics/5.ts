@@ -11,3 +11,5 @@ const RoleDescription: Record<UserRole, string> = {
   guest: "Guest User",
 };
 
+// tslint:disable-next-line:no-unused-expression
+RoleDescription;

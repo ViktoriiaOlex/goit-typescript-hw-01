@@ -13,3 +13,5 @@ createOrUpdateUser({
   email: "user@mail.com",
   password: "password123",
 });
+
+// tslint:disable-next-line:no-unused-expression
