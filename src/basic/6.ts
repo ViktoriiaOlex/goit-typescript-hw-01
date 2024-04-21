@@ -14,7 +14,7 @@ const poly = {
   email: "john@example.com",
 };
 
-interface User {
+interface MainUser {
   name: string;
   age: number;
   email: string;
