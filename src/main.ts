@@ -5,6 +5,7 @@ import "./basic/5";
 
 import "./generics/2";
 import "./generics/3";
+import "./generics/4";
 
 import "./style.css";
 document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
