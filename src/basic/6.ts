@@ -23,3 +23,5 @@ interface User {
         country: string;
     };
 };
+
+export {};

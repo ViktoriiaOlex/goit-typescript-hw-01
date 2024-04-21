@@ -5,10 +5,15 @@
 // const callback = (a) => { return 100 + a };
 
 let age: number = 50;
-let nameUser: string = 'Max';
+let nameuser: string = "Max";
 let toggle: boolean = true;
 let empty: null = null;
-const callback = (a: number) => { return 100 + a };
+const callback = (a: number) => {
+  return 100 + a;
+};
 
+//Приклад для перевіки
 console.log(callback(12));
-console.log(nameUser);
+console.log(nameuser);
+
+export {};

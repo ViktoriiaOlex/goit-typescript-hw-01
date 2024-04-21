@@ -26,3 +26,5 @@ details?: {
     updateAt?: Date;
 };
 };
+
+export {};
