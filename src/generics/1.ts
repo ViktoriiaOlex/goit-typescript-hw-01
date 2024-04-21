@@ -8,5 +8,3 @@ async function fetchData<T>(url: string) {
     throw new Error(`Error fetching from ${url}: ${error}`);
   }
 }
-
-export {};

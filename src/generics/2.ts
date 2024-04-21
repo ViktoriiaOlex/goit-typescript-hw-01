@@ -23,5 +23,3 @@ const bottomObject = { name: "Bottom", position: 2, color: "blue", weight: 20 };
 
 const resultOfCompare = compare(topObject, bottomObject);
 console.log(resultOfCompare);
-
-export {};

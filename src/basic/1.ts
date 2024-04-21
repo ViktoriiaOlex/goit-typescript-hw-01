@@ -15,5 +15,3 @@ const callback = (a: number) => {
 //Приклад для перевіки
 console.log(callback(12));
 console.log(nameuser);
-
-export {};

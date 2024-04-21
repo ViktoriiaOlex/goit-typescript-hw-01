@@ -11,5 +11,3 @@ const RoleDescription: Record<UserRole, string> = {
   guest: "Guest User",
 };
 
-
-export {};
